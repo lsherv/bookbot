@@ -8,10 +8,6 @@ def main():
     #print(char_count)
     char_report(char_count, book_path, word_count)
      
-
-
-
-
 def get_book_text(path):
     with open(path) as f:
         return f.read()

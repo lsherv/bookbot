@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot CLI project, written in python!
+BookBot statis text analysis CLI!
